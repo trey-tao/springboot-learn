@@ -11,6 +11,7 @@
         <module>autoconfiguration-demo</module>
         <module>swagger2-demo</module>
         <module>commandlinerunner-demo</module>
+        <module>cacha-guava</module>
     </modules>
     <packaging>pom</packaging>
 
